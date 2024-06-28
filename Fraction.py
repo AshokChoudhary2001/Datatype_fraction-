@@ -112,28 +112,11 @@ class fraction :
             return True
         else : 
             return False 
-            
-
-
-# In[29]:
 
 
 
+#Contributions are welcome! Please feel free to submit a Pull Request or open an issue.
 
-
-# In[34]:
-
-
-
-
-
-# In[32]:
-
-
-
-
-
-# In[ ]:
 
 
 
